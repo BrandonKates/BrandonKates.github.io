@@ -1,2 +1,2 @@
 # personal-website
-Personal Website (not yet live) – will be hosted at brandonkates.com
+Personal Website (in dev) – will be hosted at brandonkates.com
