@@ -1,2 +1,3 @@
 # personal-website
-Personal Website (in dev) – will be hosted at brandonkates.com
+Personal Website (in dev)
+brandonkates.com
