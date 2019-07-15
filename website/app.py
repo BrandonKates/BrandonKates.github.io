@@ -16,3 +16,7 @@ app = Flask(__name__, )#instance_relative_config=True)
 @app.route('/index')
 def home():
 	return render_template('index.html')
+
+@app.route('/resume')
+def resume():
+	return "RESUME HERE" #render_template('BrandonKates_Resume.pdf')
