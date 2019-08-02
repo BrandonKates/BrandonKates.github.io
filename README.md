@@ -1,3 +1,1 @@
-# personal-website
-Personal Website (in dev)
-brandonkates.com
+# brandonkates.com
